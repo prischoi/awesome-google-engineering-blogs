@@ -792,5 +792,9 @@ The web archive links are for blogs which are no longer published.
          <td>https://chromereleases.googleblog.com/</td>
          <td>Chrome Releases</td>
       </tr>
+      <tr>
+         <td>https://www.pulumi.com/blog/tag/google-cloud/</td>
+         <td>Pulumi Blog | Google Cloud</td>
+      </tr>
    </tbody>
 </table>
